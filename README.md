@@ -1,7 +1,7 @@
 # nm395_technocrates
 SIH2020 project on shifting cultivation
 
-![](https://github.com/VrushankiPatel/Detection_and_Visualization_Shifting_Cultivation/blob/main/NM-395_Technocrates_SIH2020.pdf)
+[](https://github.com/VrushankiPatel/Detection_and_Visualization_Shifting_Cultivation/blob/main/NM-395_Technocrates_SIH2020.pdf)
 
 RAW splitted data
 ---------------------
